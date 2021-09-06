@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @DanielMiao1
-- 👀 I’m interested in Python 3 and HTML
-- 🌱 I’m currently learning Python 3
-- 📫 How to reach me danielmiao2019@icloud.com or danielmiao2019@gmail.com
+hi
